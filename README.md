@@ -82,10 +82,11 @@ Monitoring dan Tindak Lanjut
 
 | Tahap | Deskripsi | Dokumentasi |
 |---|---|---|
-| **Task / Project Brief** | Audit dilakukan untuk mengidentifikasi halaman yang tidak terindeks, URL dengan error, serta halaman yang membutuhkan tindakan teknis terkait crawling dan indexing. | <img src="assets/screenshots/google-indexing-task.png" alt="Task brief Google Indexing Audit" width="500"> |
-| **Indexing Report** | Laporan dari Google Search Console digunakan untuk mengelompokkan URL berdasarkan status indexing dan menentukan halaman yang perlu diperiksa lebih lanjut. | <img src="assets/screenshots/google-indexing-report.png" alt="Laporan Google Search Console untuk indexing" width="500"> |
-| **URL Analysis** | Setiap URL dianalisis berdasarkan status, jenis halaman, konteks bisnis, internal linking, dan potensi tindakan teknis yang diperlukan. | <img src="assets/screenshots/google-indexing-analysis.png" alt="Analisis URL dan indexing issue" width="500"> |
-| **Implementation Follow-up** | Hasil audit didokumentasikan untuk proses review bersama PM, persetujuan klien, implementasi oleh tim development, dan monitoring setelah perubahan diterapkan. | <img src="assets/screenshots/google-indexing-follow-up.png" alt="Tindak lanjut implementasi Google Indexing Audit" width="500"> |
+| **Task / Project Brief** | Audit dilakukan untuk mengidentifikasi URL yang mengalami kendala indexing, halaman dengan error, serta URL yang memerlukan tindakan teknis terkait crawling dan pengindeksan. | <img src="assets/screenshots/google%20indexing%201.PNG" alt="Task brief Google Indexing Audit" width="500"> |
+| **Indexing Report** | Laporan Google Search Console digunakan untuk mengelompokkan URL berdasarkan status indexing dan menentukan halaman yang memerlukan pemeriksaan lebih lanjut. | <img src="assets/screenshots/google%20indexing%202.PNG" alt="Google Search Console indexing report" width="500"> |
+| **Klasifikasi Status URL** | URL dikelompokkan berdasarkan jenis isu, seperti 404, redirect, halaman yang telah di-crawl tetapi belum diindeks, `noindex`, dan pembatasan crawling. | <img src="assets/screenshots/google%20indexing%203.PNG" alt="Klasifikasi status indexing URL" width="500"> |
+| **Analisis dan Rekomendasi** | Setiap URL dianalisis berdasarkan status, jenis halaman, internal linking, serta tindakan yang disarankan, termasuk redirect, perbaikan teknis, atau monitoring lanjutan. | <img src="assets/screenshots/google%20indexing%204.PNG" alt="Analisis URL dan rekomendasi Technical SEO" width="500"> |
+| **Implementation Follow-up** | Hasil audit didokumentasikan untuk proses review bersama PM, persetujuan stakeholder, implementasi oleh tim development, serta tindak lanjut setelah perbaikan diterapkan. | <img src="assets/screenshots/google%20indexing%205.PNG" alt="Tindak lanjut implementasi Google Indexing Audit" width="500"> |
 
 ---
 
