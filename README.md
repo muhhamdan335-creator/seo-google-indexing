@@ -82,7 +82,8 @@ Monitoring dan Tindak Lanjut
 
 | Tahap | Deskripsi | Dokumentasi |
 |---|---|---|
-| **Task / Project Brief** | Audit dilakukan untuk mengidentifikasi URL yang mengalami kendala indexing, halaman dengan error, serta URL yang memerlukan tindakan teknis terkait crawling dan pengindeksan. | <img src="assets/screenshots/google%20indexing%201.PNG" alt="Task brief Google Indexing Audit" width="500"> |
+| **Task / Project Brief** | **project brief untuk Google Indexing Audit**, termasuk tujuan audit, kondisi yang menjadi prasyarat pengerjaan, serta instruksi untuk meninjau laporan Google Search Console.
+Task berfokus pada identifikasi masalah crawling dan indexing, dokumentasi URL yang membutuhkan tindakan, serta penyusunan rekomendasi untuk ditinjau oleh Project Manager dan tim terkait. | <img src="assets/screenshots/google%20indexing%201.PNG" alt="Task brief Google Indexing Audit" width="500"> |
 | **Indexing Report** | Laporan Google Search Console digunakan untuk mengelompokkan URL berdasarkan status indexing dan menentukan halaman yang memerlukan pemeriksaan lebih lanjut. | <img src="assets/screenshots/google%20indexing%202.PNG" alt="Google Search Console indexing report" width="500"> |
 | **Klasifikasi Status URL** | URL dikelompokkan berdasarkan jenis isu, seperti 404, redirect, halaman yang telah di-crawl tetapi belum diindeks, `noindex`, dan pembatasan crawling. | <img src="assets/screenshots/google%20indexing%203.PNG" alt="Klasifikasi status indexing URL" width="500"> |
 | **Analisis dan Rekomendasi** | Setiap URL dianalisis berdasarkan status, jenis halaman, internal linking, serta tindakan yang disarankan, termasuk redirect, perbaikan teknis, atau monitoring lanjutan. | <img src="assets/screenshots/google%20indexing%204.PNG" alt="Analisis URL dan rekomendasi Technical SEO" width="500"> |
