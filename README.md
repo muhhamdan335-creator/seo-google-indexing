@@ -1,8 +1,8 @@
 # Google Indexing Audit & Technical SEO
 
-## Gambaran Proyek
+## Overview
 
-Proyek ini merupakan dokumentasi portofolio pekerjaan **Technical SEO** yang berfokus pada audit status pengindeksan website melalui **Google Search Console**.
+**Technical SEO** yang berfokus pada audit status pengindeksan website melalui **Google Search Console**.
 
 Audit dilakukan untuk mengidentifikasi URL yang mengalami kendala pada proses crawling dan indexing, mengklasifikasikan setiap isu berdasarkan status yang terdeteksi, serta menyusun rekomendasi teknis yang dapat ditindaklanjuti oleh pihak terkait.
 
