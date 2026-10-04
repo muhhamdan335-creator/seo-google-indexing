@@ -215,9 +215,3 @@ Hasil pekerjaan didokumentasikan dalam spreadsheet yang mencakup:
 - Technical SEO Recommendations
 
 ---
-
-## Catatan Portofolio
-
-Proyek ini dibuat sebagai dokumentasi kemampuan dalam melakukan audit Technical SEO, menganalisis kendala crawling dan indexing, menyusun rekomendasi berbasis data, serta berkoordinasi dengan stakeholder dalam proses implementasi perbaikan.
-
-Seluruh informasi sensitif telah dianonimkan untuk menjaga kerahasiaan klien dan data bisnis.
